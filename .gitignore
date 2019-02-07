@@ -1,0 +1,17 @@
+node_modules
+.cache
+
+## Parcel's output
+dist
+
+## Output for typescript
+.tsout
+
+## PouchDB data
+local/
+
+## Jest Snapshots
+__snapshots__
+
+## Jest Coverage
+coverage
