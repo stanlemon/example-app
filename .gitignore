@@ -1,11 +1,14 @@
+## Installed dependencies
 node_modules
-.cache
 
-## Parcel's output
+## Typescript's output & definition files
 dist
 
-## Output for typescript
-.tsout
+## Parcel's disk cache
+.cache
+
+## Parcel's output for serving
+out
 
 ## PouchDB data
 local/
