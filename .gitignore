@@ -19,5 +19,9 @@ __snapshots__
 ## Jest Coverage
 coverage
 
+## Environment Variables
+.env
+
 ## Visual Studio Code Settings
 .vscode
+.devcontainer
