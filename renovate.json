@@ -7,6 +7,10 @@
   "schedule": [
     "after 8am and before 5pm on Thursday"
   ],
+  "vulnerabilityAlerts": {
+    "automerge": true,
+    "schedule": null
+  },
   "packageRules": [
     {
       "packageNames": [
